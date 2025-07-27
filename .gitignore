@@ -138,6 +138,7 @@ dist
 vite.config.js.timestamp-*
 vite.config.ts.timestamp-*
 
-#Videos folder
+#Cypress
 videos/
 screenshots/
+reports/
